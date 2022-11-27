@@ -9,6 +9,7 @@ Discover Top Music, play music and adjust volume.
 Search the song 
 ![Screenshot (128)](https://user-images.githubusercontent.com/65943514/204146173-a5221fac-6fc7-4ba1-84ae-b9f9487fb120.png)
 ![Screenshot (129)](https://user-images.githubusercontent.com/65943514/204146170-b937ea2a-ea98-4ca0-8ab3-b0f864fe2c0c.png)
+![Screenshot (131)](https://user-images.githubusercontent.com/65943514/204146137-0132264e-8909-4d6e-8042-47a372d48b9d.png)
 
 
 
